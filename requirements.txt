@@ -1,6 +1,6 @@
 streamlit>=1.30.0
-yfinance>=0.2.30
-pandas<2.2.0
+yfinance
+pandas>=2.0.0
 pandas-ta
 plotly
 requests
